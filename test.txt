@@ -1,6 +1,3 @@
 git branch test
-<<<<<<< HEAD
 creating new branch & new & conflict fixed
-=======
-creating new branch & new & conflict fixed
->>>>>>> feature1
+
